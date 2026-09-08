@@ -1,0 +1,12 @@
+scikit-learn
+pandas
+numpy
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+streamlit
+altair
+requests
+psycopg2-binary
+
